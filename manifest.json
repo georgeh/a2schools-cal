@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:20:33.670360Z",
+  "generated_at": "2026-09-11T22:20:29.741592Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -107,10 +107,6 @@
     {
       "slug": "pittsfield",
       "name": "Pittsfield"
-    },
-    {
-      "slug": "preschools",
-      "name": "Preschools"
     },
     {
       "slug": "scarlett",
